@@ -1,0 +1,120 @@
+.nav-item a {
+  color: white;
+  margin-left: 400px;
+  font-weight: 600;
+  font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 18px;
+}
+
+.nav-item a:hover {
+  color: grey;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.text-section {
+    font-weight: 600;
+    margin: 1.5rem;
+}
+
+.large-font {
+    font-size: 5rem;
+}
+
+.custom-input {
+    width: 30rem;
+    height: 3.5rem;
+    border-radius: 10px;
+    border: lightgray solid 1px;
+}
+
+.input-icon {
+    padding-left: 30px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 20px;
+  }
+
+.grey-text {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+}
+
+.section-one-quote {
+  max-width: 42%;
+  margin-left: 375px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.center-img {        
+    display: block;
+    margin: auto;
+  }
+
+.vertical-line {
+    border-right: solid 0.5px lightgray;
+    margin-right: 5px;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.footer {
+    font-size: small;
+}
+
+.black-text {
+    color: black;
+}
+
+.accordion-button {
+  font-size: 25px;
+  font-weight: 500;
+  background-color: white;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.accordion-body {
+  font-size: 18px;
+  background-color: white;
+}
+
+.accordion {
+  max-width: 53%;
+  margin-left: 310px;
+  background-color: white;
+  border-color: white;
+  margin-top: -25px;
+}
+
+.accordion-item {
+  text-decoration: none;
+  border: none;
+  border-radius: none;
+  box-shadow: none;
+  background-color: white;
+  border-color: white;
+}
+
+.accordion-button:hover {
+  background-color: white;
+  border-bottom: white;
+  color:#0F79E5;
+}
+
+.accordion-button:active {
+  background-color: white;
+  border-color: white;
+  color:#0F79E5;
+}
